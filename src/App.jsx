@@ -1,12 +1,13 @@
+import { Div } from "./styles"
+import BG from "./assets/bg-stars-1280.jpg"
 
 
-function App() {
 
+export const App = () => {
   return (
-    <div className="App">
-      hello word
-    </div>
-  )
-}
+    <Div>
+      <h1>shgd</h1>
 
-export default App
+    </Div>
+  )
+  }
