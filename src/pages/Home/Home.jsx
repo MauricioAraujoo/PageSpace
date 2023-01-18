@@ -1,9 +1,9 @@
+import { Header } from "../../components/header/Header"
 import { Div } from "./styles"
 export const Home = () => {
   return (
-    <Div>
-      <h1>shgd</h1>
-
-    </Div>
-  )
+        <Div>
+            <Header />
+        </Div>
+    )
   }

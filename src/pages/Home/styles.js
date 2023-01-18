@@ -7,4 +7,5 @@ export const Div = styled.div`
     background-repeat: no-repeat;
     width: auto;
     height: 100vh;
+
 `
