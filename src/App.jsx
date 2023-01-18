@@ -1,13 +1,9 @@
-import { Div } from "./styles"
-import BG from "./assets/bg-stars-1280.jpg"
-
-
+import { Home } from "./pages/Home/Home"
 
 export const App = () => {
   return (
-    <Div>
-      <h1>shgd</h1>
-
-    </Div>
+    <div>
+      <Home />
+    </div>
   )
   }
