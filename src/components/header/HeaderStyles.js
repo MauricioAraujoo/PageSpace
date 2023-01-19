@@ -9,10 +9,11 @@ export const Hdiv = styled.div`
     nav{
         background-image: url(${BGH});   
         background-position : top;
+        
         align-items: center;
         background-color: rgba(13,46,66,.5);
         opacity: 0.7;
-        padding:5px;
+        padding:8px;
     }
     img{
         width: 100px;

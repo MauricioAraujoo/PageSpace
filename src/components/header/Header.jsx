@@ -9,7 +9,7 @@ export const Header = () => {
             <ul className="actions1">
               <a><span><img src={logo} alt="FRONTEIRA-Logo.png" /></span></a>
               <li>MEMBERS</li>
-              <li>ORGANIZAÇÂO</li>
+              <li>ORGANIZATION</li>
               <li>DIVISIONS</li>
               <li>DISCORD</li>
               <li>SUPPORT</li>
