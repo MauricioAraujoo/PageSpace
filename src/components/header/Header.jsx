@@ -3,9 +3,8 @@ import logo from "../../../Public/assets/FRONTEIRA-Logo.png"
 
 export const Header = () => {
   return (
+    <>
     <Hdiv>
-      <section>
-        <nav>
             <ul className="actions1">
               <a><span><img src={logo} alt="FRONTEIRA-Logo.png" /></span></a>
               <li>MEMBERS</li>
@@ -15,10 +14,8 @@ export const Header = () => {
               <li>SUPPORT</li>
               <li>ACCOUNT</li>
             </ul>
-        </nav>
-      </section>
           <div className="line-end"></div>
-     
     </Hdiv>
+          </>
   );
 };
