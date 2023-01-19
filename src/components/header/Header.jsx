@@ -17,6 +17,8 @@ export const Header = () => {
             </ul>
         </nav>
       </section>
+          <div className="line-end"></div>
+     
     </Hdiv>
   );
 };
